@@ -22,5 +22,5 @@
 
 ### 📫 Connect with Me
 - GitHub: https://github.com/yasin9-ops
-- LinkedIn: (add when ready)
+- LinkedIn: http://www.linkedin.com/in/shaik-yasin-55a2b725a
 
