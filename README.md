@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Shaik Yasin 👋
 
-<!--
-**yasin9-ops/yasin9-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student | Aspiring Software Developer  
+💻 Python | Flask | Web Development  
+📊 Interested in Backend, Databases & AI-powered applications  
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- Python, Flask
+- HTML, CSS, JavaScript (Basics)
+- SQLite / SQL
+- Git & GitHub
+- AI & ML fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- **KITS-EDU** – College ERP system with student, teacher & admin modules  
+- **Meme Management App** – Flask-based CRUD web application  
+
+### 🎯 Currently Learning
+- Advanced Flask
+- Data Structures & Algorithms (Python)
+- Deployment (Render / Docker)
+
+### 📫 Connect with Me
+- GitHub: https://github.com/yasin9-ops
+- LinkedIn: (add when ready)
+
